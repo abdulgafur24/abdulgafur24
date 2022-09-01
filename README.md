@@ -9,8 +9,6 @@
 
 - 🔭 I am from 🇰🇿
 - 🌱 i like to learn new technologies 🙂
-- 👯 I’m looking to collaborate with other startup creators
-- 🥅 2020/2021 Goals: Contribute more to Open Source projects, learn to ride snowboard
 
 
 ### Current stack:
@@ -44,12 +42,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-
-### Want learn:
-<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 
 <br />
 
